@@ -6,6 +6,11 @@ import UIKit
 
 // Your function here
 
+func average(of numbers: Double, in: [Double]) -> Double{
+    
+    return 
+}
+
 let testCasesOne: [([Double], Double)] = [
     (input: [1,2,3,4,5], expectedOutput: 3),
     (input: [1,42,1,541,42,6], expectedOutput: 105.5),
