@@ -6,9 +6,9 @@ import UIKit
 
 // Your function here
 
-func average(of numbers: Double, in: [Double]) -> Double{
+func average(of numbers: Double, in numArray : [Double]) -> Double{
     
-    return 
+    return numArray.enumerated
 }
 
 let testCasesOne: [([Double], Double)] = [
